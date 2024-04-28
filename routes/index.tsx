@@ -13,7 +13,6 @@ export default function Home() {
       <div class="h-screen max-w-screen-md mx-auto flex flex-col items-center justify-center">
         <h1 class="pb-3 text-4xl font-bold">End of School Timer</h1>
         <CountdownTimer />
-        <code>until June 7th, 2024, 1:20 PM</code>
       </div>
     </div>
   </>
